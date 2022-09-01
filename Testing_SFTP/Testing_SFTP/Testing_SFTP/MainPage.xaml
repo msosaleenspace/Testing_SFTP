@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Testing_SFTP.MainPage">
+
+    <StackLayout Margin="20,50,20,50" Orientation="Vertical">
+
+        <Label x:Name="MessageLbl" FontSize="16" HorizontalTextAlignment="Center">
+           
+        </Label>
+    </StackLayout>
+
+</ContentPage>
+

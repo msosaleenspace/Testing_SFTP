@@ -1,0 +1,14 @@
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/bin/Debug/netstandard2.0/Testing_SFTP.deps.json
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/bin/Debug/netstandard2.0/Testing_SFTP.dll
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/bin/Debug/netstandard2.0/ref/Testing_SFTP.dll
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/bin/Debug/netstandard2.0/Testing_SFTP.pdb
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/Testing_SFTP.csproj.AssemblyReference.cache
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/Testing_SFTP.AssemblyInfoInputs.cache
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/Testing_SFTP.AssemblyInfo.cs
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/Testing_SFTP.csproj.CoreCompileInputs.cache
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/Testing_SFTP.dll
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/ref/Testing_SFTP.dll
+/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/Debug/netstandard2.0/Testing_SFTP.pdb
