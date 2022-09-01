@@ -2,17 +2,17 @@
 --sgen-conc
 /target-framework:Xamarin.iOS,Version=v1.0
 --http-message-handler=NSUrlSessionHandler
---cache=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/obj/iPhoneSimulator/Debug/mtouch-cache
---root-assembly=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/bin/iPhoneSimulator/Debug/Testing_SFTP.iOS.exe
+--cache=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/obj/iPhoneSimulator/Debug/mtouch-cache
+--root-assembly=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/bin/iPhoneSimulator/Debug/Testing_SFTP.iOS.exe
 --sdkroot=/Applications/Xcode.app/Contents/Developer
 --targetver=8.0
---sim=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/bin/iPhoneSimulator/Debug/Testing_SFTP.iOS.app
+--sim=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/bin/iPhoneSimulator/Debug/Testing_SFTP.iOS.app
 --executable=Testing_SFTP.iOS
 --nolink
 --sdk=15.5
 --aot-options=-O=-float32
 --abi=x86_64
---symbollist=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list
+--symbollist=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list
 --dsym=no
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Microsoft.CSharp.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
@@ -25,7 +25,7 @@
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
---reference=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/bin/Debug/netstandard2.0/Testing_SFTP.dll
+--reference=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/bin/Debug/netstandard2.0/Testing_SFTP.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Primitives.dll
 --reference=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Registry.AccessControl.dll
@@ -217,4 +217,4 @@
 --reference=/Users/martinsosa/.nuget/packages/xamarin.forms/5.0.0.2196/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 --reference=/Users/martinsosa/.nuget/packages/xamarin.forms/5.0.0.2196/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 --reference=/Users/martinsosa/.nuget/packages/xamarin.forms/5.0.0.2196/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
---reference=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/bin/Debug/netstandard2.0/Testing_SFTP.dll
+--reference=/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/bin/Debug/netstandard2.0/Testing_SFTP.dll

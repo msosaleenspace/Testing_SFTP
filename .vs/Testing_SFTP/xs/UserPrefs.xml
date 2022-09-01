@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{23216827-1219-42DC-A17F-A36F8E8C8BAE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testing_SFTP/Testing_SFTP/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Testing_SFTP/Testing_SFTP/MainPage.xaml.cs" Line="55" Column="1" />
+      <File FileName="Testing_SFTP/Testing_SFTP/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Testing_SFTP" expanded="True">
+            <Node name="Testing_SFTP" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Testing__SFTP.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_xl_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Testing__SFTP.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E3D559ED-53B3-444A-BB59-B52792F68510" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_2_xl_-_api_33" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

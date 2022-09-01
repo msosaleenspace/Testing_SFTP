@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>Testing_SFTP.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list</SymbolFile>
       <DSymName>Testing_SFTP.iOS.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS</SourceProjectPath>
+      <SourceProjectPath>/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

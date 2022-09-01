@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qdOR96k2D7de9VkrzmSUYrr9ABHnpkW3PWP9CGu2J4KJo+CH4lxK/jmcEiQcik2jr+OK3pCnBEJmqgGGV0F5QQ==",
+  "dgSpecHash": "SzeBePSQzLhVap0GH1EyLzGxW4KIXLFOCYbM/FKJo/gpzCaJuQG68hjX6/9Ks0dmBVD2TdXVOuRUj5WIUhmpUw==",
   "success": true,
-  "projectFilePath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj",
+  "projectFilePath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj",
   "expectedPackageFiles": [
     "/Users/martinsosa/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/Users/martinsosa/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",

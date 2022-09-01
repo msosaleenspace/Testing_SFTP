@@ -6436,11 +6436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/Testing_SFTP.iOS.csproj",
+      "projectUniqueName": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/Testing_SFTP.iOS.csproj",
       "projectName": "Testing_SFTP.iOS",
-      "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/Testing_SFTP.iOS.csproj",
+      "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/Testing_SFTP.iOS.csproj",
       "packagesPath": "/Users/martinsosa/.nuget/packages/",
-      "outputPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/obj/",
+      "outputPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -6456,8 +6456,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj": {
-              "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj"
+            "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj": {
+              "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj"
             }
           }
         }

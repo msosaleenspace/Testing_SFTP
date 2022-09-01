@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/Testing_SFTP.Android.csproj": {}
+    "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/Testing_SFTP.Android.csproj": {}
   },
   "projects": {
-    "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/Testing_SFTP.Android.csproj": {
+    "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/Testing_SFTP.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/Testing_SFTP.Android.csproj",
+        "projectUniqueName": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/Testing_SFTP.Android.csproj",
         "projectName": "Testing_SFTP.Android",
-        "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/Testing_SFTP.Android.csproj",
+        "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/Testing_SFTP.Android.csproj",
         "packagesPath": "/Users/martinsosa/.nuget/packages/",
-        "outputPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/obj/",
+        "outputPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj": {
-                "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj"
+              "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj": {
+                "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj"
               }
             }
           }
@@ -53,14 +53,14 @@
         }
       }
     },
-    "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj": {
+    "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj",
+        "projectUniqueName": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj",
         "projectName": "Testing_SFTP",
-        "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj",
+        "projectPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP.csproj",
         "packagesPath": "/Users/martinsosa/.nuget/packages/",
-        "outputPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/",
+        "outputPath": "/Users/martinsosa/Desktop/Testing_SFTP/Testing_SFTP/Testing_SFTP/Testing_SFTP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/martinsosa/.config/NuGet/NuGet.Config"
