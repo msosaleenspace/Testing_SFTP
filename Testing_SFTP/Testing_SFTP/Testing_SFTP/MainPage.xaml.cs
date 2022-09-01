@@ -17,21 +17,25 @@ namespace Testing_SFTP
         {
             InitializeComponent();
 
-            //this.TestSFTPAndroid();
-            this.TestSFTPiOS();
+            this.TestSFTP();
 
         }
 
-        private async Task TestSFTPiOS()
+        private async Task TestSFTP()
         {
             try
             {
-         
                 String Host = "192.168.200.98";
                 int Port = 22;
 
                 String RemoteFileName = "test.db";
-                String LocalDestinationFilename = "./testDos.db";//"./testDos.db"
+
+                string LocalDestinationFilename = "";
+
+                if (Device.RuntimePlatform == Device.Android)
+                    LocalDestinationFilename = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "/data/user/0/com.companyname.testing_sftp/files/testDos.db");
+                else if (Device.RuntimePlatform == Device.iOS)
+                    LocalDestinationFilename = "./testDos.db";
 
                 String Username = "pi";
                 String Password = "1234";
@@ -45,7 +49,12 @@ namespace Testing_SFTP
                         sftp.DownloadFile(RemoteFileName, file);
                     }
 
-                    string fileName = "./testDos.db";
+                    string fileName = "";
+
+                    if (Device.RuntimePlatform == Device.Android)
+                        fileName = "/data/user/0/com.companyname.testing_sftp/files/testDos.db";
+                    else if (Device.RuntimePlatform == Device.iOS)
+                        fileName = "./testDos.db";
 
                     IEnumerable<string> lines = File.ReadLines(fileName);
                     Console.WriteLine(String.Join(Environment.NewLine, lines));
@@ -54,51 +63,6 @@ namespace Testing_SFTP
 
                     sftp.Disconnect();
                 }
-
-            }
-            catch (Exception ex)
-            {
-                this.MessageLbl.Text = ex.Message;
-            }
-
-        }
-
-        private async Task TestSFTPAndroid()
-        {
-            try
-            {
-
-
-                String Host = "192.168.200.98";
-                int Port = 22;
-
-                String RemoteFileName = "test.db";
-
-                String LocalDestinationFilename = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "/data/user/0/com.companyname.testing_sftp/files/testDos.db");
-
-                String Username = "pi";
-                String Password = "1234";
-
-                using (var sftp = new SftpClient(Host, Port, Username, Password))
-                {
-                    sftp.Connect();
-
-                    using (var file = File.OpenWrite(LocalDestinationFilename))
-                    {
-                        sftp.DownloadFile(RemoteFileName, file);
-                    }
-
-                     string fileName = "/data/user/0/com.companyname.testing_sftp/files/testDos.db";
-
-                     IEnumerable<string> lines = File.ReadLines(fileName);
-                     Console.WriteLine(String.Join(Environment.NewLine, lines));
-
-                     this.MessageLbl.Text = "" + String.Join(Environment.NewLine, lines);
-
-                     sftp.Disconnect();
-                }
-
-                //this.MessageLbl.Text = "No hubo problema!";
 
             }
             catch (Exception ex)
